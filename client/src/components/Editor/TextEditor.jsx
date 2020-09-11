@@ -37,7 +37,6 @@ export default class TextEditor extends React.Component {
     };
 
     handleChange = html => {
-        console.log(html);
         this.setState({ editorHtml: html });
     };
 
