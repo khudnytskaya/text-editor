@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[GitHub Pages](https://khudnytskaya.github.io/text-editor/).
 
 ## Available Scripts
 
