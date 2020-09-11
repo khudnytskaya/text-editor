@@ -1,5 +1,4 @@
 import React from 'react';
-import './app.css';
 import TextEditor from '../Editor/TextEditor';
 
 const App = () => {
